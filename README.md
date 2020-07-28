@@ -1,4 +1,4 @@
-# GitHub stats
+# GitHub Stats
 ![syarihu's github stats](https://github-readme-stats.vercel.app/api?username=syarihu&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syarihu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
